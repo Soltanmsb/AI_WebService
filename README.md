@@ -7,7 +7,6 @@
 - Need to top up in Open_AI user account<br>
 - Suitable for Telegram sites and bots<br>
 </h4>
-<br>
 <h3>Usage guide 📚</h3>
 <h4>Sample link to use</h4>
 <pre>Https://Domain.com/AI.php?text=yourـtext</pre><br>
