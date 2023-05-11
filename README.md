@@ -8,5 +8,7 @@
 - Suitable for Telegram sites and bots<br>
 </h4>
 <br>
-
+<h3>Usage guide 📚</h3>
+<h4>Sample link to use</h4>
+<pre>Https://Domain.com/AI.php?text=yourـtext</pre><br>
 <h4 align="center">⌜ Coded with love ☕❤ ⌟</h4>
