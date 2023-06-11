@@ -1,5 +1,5 @@
 # AI WebService
-<h3>👨‍💻 Developer : <a href='https://T.me/Source_Killer'>T.me/Source_Killer</a></h3>
+<h3>👨‍💻 Developer : <a href='https://T.me/Mr_D4rk'>T.me/Mr_D4rk</a></h3>
 <h4>
 - Linked to the main Open_AI site<br>
 - Output as json<br>
